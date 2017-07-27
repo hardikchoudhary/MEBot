@@ -137,8 +137,8 @@ server.listen(process.env.port || process.env.PORT || 3978, function () {
 
 // Create chat connector for communicating with the Bot Framework Service
 var connector = new builder.ChatConnector({
-    appId: "3dfa0867-614d-40d2-8092-08fd56df09f6",
-    appPassword:"mHCEFZUbfZnFH5HLUseuJK1"
+    appId: "4655d6ab-7f5c-488e-a204-2166919ca357",
+    appPassword:"AxDRa075cCPE8jgZh9LBWaN"
 });
 
 var redJn=["Kashimiri Gate","Inderlok"]
