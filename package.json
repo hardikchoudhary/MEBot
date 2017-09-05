@@ -11,8 +11,7 @@
   "dependencies": {
     "botbuilder": "^3.8.4",
        "botbuilder-cognitiveservices": "^1.1.0",
-    "google-distance": "^1.0.1",
-    "node-geocoder": "^3.16.0",
+        "botbuilder-quickreplies": "^1.1.1",
     "restify": "^4.3.0"
   },
   "devDependencies": {},
